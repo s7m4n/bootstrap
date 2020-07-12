@@ -1,0 +1,17 @@
+body {
+    background-attachment: fixed;
+}
+h1 {
+    font-family: fantasy;
+    padding-top: 10px;
+}
+.quem-somos {
+    background-color: aqua;
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.bg-footer {
+    background-color: rgb(228, 223, 220);
+}
